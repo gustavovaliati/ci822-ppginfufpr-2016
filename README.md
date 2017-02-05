@@ -7,8 +7,8 @@ Para visualizar os códigos, acesse do diretório 'opencv-python'.
 
 ## Comandos
 
-Para acessar alguns comandos úteis utilizados clique [aqui](COMMANDS.md)
+Para acessar alguns comandos úteis utilizados clique [aqui](docs/COMMANDS.md)
 
 ## Erros
 
-Para ver os últimos erros não resolvidos no treinamento do classificador haar, clique [aqui](ERRORS.md)
+Para ver os últimos erros não resolvidos no treinamento do classificador haar, clique [aqui](docs/ERRORS.md)
